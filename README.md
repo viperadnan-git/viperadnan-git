@@ -1,9 +1,10 @@
-<p align="center">
-	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<p align="center"><strong>We didn't receive a proper request from your browser</strong></p>
-<p align="center">Try refreshing the page and contact us if the problem persists.</p>
-<p align="center">
-	<a style="text-decoration:none" href="https://docs.github.com/en/get-started/using-github/supported-browsers">Supported Browsers</a>&nbsp;&nbsp;
-	<a style="text-decoration:none" href="https://github.com/contact">Contact Support</a>
-</p>
-</p>
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/mysql-030303?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
+![Scratch](https://img.shields.io/badge/scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=ffffff)
+![Bulma](https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=ffffff)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviperadnan-git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=:)&edge_flat=true" height="28">
