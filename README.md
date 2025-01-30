@@ -17,5 +17,5 @@
 ![FFmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=ffffff)
 ![Sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=ffffff)
 ![Scratch](https://img.shields.io/badge/scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=ffffff)
-![Bulma](https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=ffffff)
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviperadnan-git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=:)&edge_flat=true" height="28">
